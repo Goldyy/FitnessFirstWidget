@@ -13,7 +13,7 @@ const STUDIOS = await fetchWithCache({
     key: "studios",
     type: "json"
 });
-const STUDIO_ID = args.widgetParameter || "1815762810";
+const STUDIO_ID = args.widgetParameter || "1239136210";
 const SELECTED_STUDIO = STUDIOS.find(s => s.studio_id === STUDIO_ID);
 
 const URL_UTILIZATION = `https://www.ai-fitness.de/connect/v1/studio/${STUDIO_ID}/utilization`;
