@@ -165,9 +165,17 @@ async function createWidget() {
     // ---------- Fetch data ----------
     let utilizationData;
     try {
-        utilizationData = await fetchJSON(URL_UTILIZATION);
+        utilizationData = await fetchWithCache({
+            url: URL_UTILIZATION,
+            key: `utilization_${STUDIO_ID}`,
+            type: "json"
+        });
     } catch (e) {
-        widget.addText("⚠️ Load error");
+        const errorText = widget.addText("⚠️ Load error");
+        errorText.textColor = Color.red();
+        const errorDetail = widget.addText(e.toString());
+        errorDetail.font = Font.systemFont(10);
+        errorDetail.textColor = COLORS.grayText;
         return widget;
     }
 
