@@ -1,0 +1,762 @@
+[
+  {
+    "url_id": "ahlen-city",
+    "name": "Ahlen City",
+    "studio_id": "1815762810"
+  },
+  {
+    "url_id": "ahlen-sued",
+    "name": "Ahlen Süd",
+    "studio_id": "1815835780"
+  },
+  {
+    "url_id": "alsfeld",
+    "name": "Alsfeld",
+    "studio_id": "1272770680"
+  },
+  {
+    "url_id": "ansbach",
+    "name": "Ansbach",
+    "studio_id": "1396233150"
+  },
+  {
+    "url_id": "augsburg-haunstetten",
+    "name": "Augsburg Haunstetten",
+    "studio_id": "1393391460"
+  },
+  {
+    "url_id": "augsburg-stadtbergen",
+    "name": "Augsburg Stadtbergen",
+    "studio_id": "1401356830"
+  },
+  {
+    "url_id": "badhersfeld",
+    "name": "Bad Hersfeld",
+    "studio_id": "1263720750"
+  },
+  {
+    "url_id": "badoeynhausen",
+    "name": "Bad Oeynhausen",
+    "studio_id": "1331091060"
+  },
+  {
+    "url_id": "bergisch-gladbach",
+    "name": "Bergisch Gladbach",
+    "studio_id": "1234787240"
+  },
+  {
+    "url_id": "bielefeld-brackwede",
+    "name": "Bielefeld Brackwede",
+    "studio_id": null
+  },
+  {
+    "url_id": "bielefeld",
+    "name": "Bielefeld City",
+    "studio_id": "1321967250"
+  },
+  {
+    "url_id": "bielefeld-schildesche",
+    "name": "Bielefeld Schildesche",
+    "studio_id": "1468963780"
+  },
+  {
+    "url_id": "bielefeld-sieker",
+    "name": "Bielefeld Sieker",
+    "studio_id": "1316633090"
+  },
+  {
+    "url_id": "bocholt",
+    "name": "Bocholt",
+    "studio_id": "1270662880"
+  },
+  {
+    "url_id": "bochum",
+    "name": "Bochum",
+    "studio_id": "1274187050"
+  },
+  {
+    "url_id": "bonn",
+    "name": "Bonn",
+    "studio_id": "1239136210"
+  },
+  {
+    "url_id": "bonn-endenich",
+    "name": "Bonn Endenich",
+    "studio_id": "1468143780"
+  },
+  {
+    "url_id": "borken",
+    "name": "Borken",
+    "studio_id": "1273970690"
+  },
+  {
+    "url_id": "bottrop",
+    "name": "Bottrop",
+    "studio_id": "1274239870"
+  },
+  {
+    "url_id": "bremen-munte",
+    "name": "Bremen Munte",
+    "studio_id": "1798616320"
+  },
+  {
+    "url_id": "bremen-vahr",
+    "name": "Bremen Vahr",
+    "studio_id": "1837895800"
+  },
+  {
+    "url_id": "brilon",
+    "name": "Brilon",
+    "studio_id": "1857802530"
+  },
+  {
+    "url_id": "buende",
+    "name": "Bünde",
+    "studio_id": "1331272490"
+  },
+  {
+    "url_id": "castrop-nord",
+    "name": "Castrop Nord",
+    "studio_id": "1288065730"
+  },
+  {
+    "url_id": "castrop-rauxel",
+    "name": "Castrop Rauxel",
+    "studio_id": "1289827530"
+  },
+  {
+    "url_id": "celle",
+    "name": "Celle Neuenhäusen",
+    "studio_id": "1348846630"
+  },
+  {
+    "url_id": "celle-telefunkenstrasse",
+    "name": "Celle Telefunkenstraße",
+    "studio_id": "2026968340"
+  },
+  {
+    "url_id": "coburg",
+    "name": "Coburg",
+    "studio_id": "1412625590"
+  },
+  {
+    "url_id": "darmstadt",
+    "name": "Darmstadt",
+    "studio_id": "1420664670"
+  },
+  {
+    "url_id": "delmenhorst",
+    "name": "Delmenhorst",
+    "studio_id": "1834876890"
+  },
+  {
+    "url_id": "detmold",
+    "name": "Detmold",
+    "studio_id": "1349127220"
+  },
+  {
+    "url_id": "dietzenbach",
+    "name": "Dietzenbach",
+    "studio_id": "1617841590"
+  },
+  {
+    "url_id": "dortmund-city",
+    "name": "Dortmund City",
+    "studio_id": "1310695370"
+  },
+  {
+    "url_id": "dortmund-dorstfeld",
+    "name": "Dortmund Dorstfeld",
+    "studio_id": "1302920060"
+  },
+  {
+    "url_id": "dortmund-luetgendortmund",
+    "name": "Dortmund Lütgendortmund",
+    "studio_id": "1302416220"
+  },
+  {
+    "url_id": "dreieich",
+    "name": "Dreieich",
+    "studio_id": "1434882720"
+  },
+  {
+    "url_id": "duisburg-city",
+    "name": "Duisburg City",
+    "studio_id": "1281642530"
+  },
+  {
+    "url_id": "duisburg-innenhafen",
+    "name": "Duisburg Innenhafen",
+    "studio_id": "1279902650"
+  },
+  {
+    "url_id": "duisburg-koenigsgalerie",
+    "name": "Duisburg Königsgalerie",
+    "studio_id": "1218401810"
+  },
+  {
+    "url_id": "duisburg-meiderich",
+    "name": "Duisburg Meiderich",
+    "studio_id": "1221845900"
+  },
+  {
+    "url_id": "flingern",
+    "name": "Düsseldorf Flingern",
+    "studio_id": "1288551800"
+  },
+  {
+    "url_id": "oberbilk",
+    "name": "Düsseldorf Oberbilk",
+    "studio_id": "1288377920"
+  },
+  {
+    "url_id": "altenessen",
+    "name": "Essen Altenessen",
+    "studio_id": "1289379010"
+  },
+  {
+    "url_id": "essen-bergerhausen",
+    "name": "Essen Bergerhausen",
+    "studio_id": "1211494410"
+  },
+  {
+    "url_id": "essen",
+    "name": "Essen Borbeck",
+    "studio_id": "1289045240"
+  },
+  {
+    "url_id": "essen-kray",
+    "name": "Essen Kray",
+    "studio_id": "1222008710"
+  },
+  {
+    "url_id": "esslingen",
+    "name": "Esslingen",
+    "studio_id": "1420850450"
+  },
+  {
+    "url_id": "freising",
+    "name": "Freising",
+    "studio_id": "1399187700"
+  },
+  {
+    "url_id": "friedrichshafen-bodenseecenter",
+    "name": "Friedrichshafen Bodenseecenter",
+    "studio_id": "1377860620"
+  },
+  {
+    "url_id": "friedrichshafen",
+    "name": "Friedrichshafen Flughafen",
+    "studio_id": "1360175120"
+  },
+  {
+    "url_id": "fuerth",
+    "name": "Fürth",
+    "studio_id": "1397509340"
+  },
+  {
+    "url_id": "gummersbach",
+    "name": "Gummersbach",
+    "studio_id": "1938360680"
+  },
+  {
+    "url_id": "goeppingen",
+    "name": "Göppingen",
+    "studio_id": "1421327860"
+  },
+  {
+    "url_id": "goettingen-grone",
+    "name": "Göttingen Grone",
+    "studio_id": null
+  },
+  {
+    "url_id": "goettingen-weende",
+    "name": "Göttingen Weende",
+    "studio_id": null
+  },
+  {
+    "url_id": "guetersloh",
+    "name": "Gütersloh",
+    "studio_id": "1316568120"
+  },
+  {
+    "url_id": "guetersloh-kampstrasse",
+    "name": "Gütersloh Kampstraße",
+    "studio_id": null
+  },
+  {
+    "url_id": "haan",
+    "name": "Haan",
+    "studio_id": "1288400590"
+  },
+  {
+    "url_id": "hagen-city",
+    "name": "Hagen City",
+    "studio_id": "1306395220"
+  },
+  {
+    "url_id": "hagen-markt",
+    "name": "Hagen Markt",
+    "studio_id": "1302635170"
+  },
+  {
+    "url_id": "hainburg",
+    "name": "Hainburg",
+    "studio_id": "1614562350"
+  },
+  {
+    "url_id": "haltern",
+    "name": "Haltern am See",
+    "studio_id": "1273937040"
+  },
+  {
+    "url_id": "hamm",
+    "name": "Hamm",
+    "studio_id": "1316910130"
+  },
+  {
+    "url_id": "hanau",
+    "name": "Hanau",
+    "studio_id": "1434738230"
+  },
+  {
+    "url_id": "hannover-city",
+    "name": "Hannover City",
+    "studio_id": "2028394920"
+  },
+  {
+    "url_id": "hannover-hainholz",
+    "name": "Hannover Hainholz",
+    "studio_id": "2020896540"
+  },
+  {
+    "url_id": "hannover-misburg",
+    "name": "Hannover Misburg",
+    "studio_id": "2028514990"
+  },
+  {
+    "url_id": "hannover",
+    "name": "Hannover Vahrenwald",
+    "studio_id": "1348845010"
+  },
+  {
+    "url_id": "heidenheim",
+    "name": "Heidenheim",
+    "studio_id": "1421775900"
+  },
+  {
+    "url_id": "heilbronn",
+    "name": "Heilbronn",
+    "studio_id": "1380854810"
+  },
+  {
+    "url_id": "herfordnord",
+    "name": "Herford Nord",
+    "studio_id": "1332939750"
+  },
+  {
+    "url_id": "herfordsued",
+    "name": "Herford Süd",
+    "studio_id": "1331349750"
+  },
+  {
+    "url_id": "heusenstamm",
+    "name": "Heusenstamm",
+    "studio_id": "1614877630"
+  },
+  {
+    "url_id": "hof",
+    "name": "Hof",
+    "studio_id": "1412397360"
+  },
+  {
+    "url_id": "homburg",
+    "name": "Homburg",
+    "studio_id": "1435828710"
+  },
+  {
+    "url_id": "huerth",
+    "name": "Hürth",
+    "studio_id": "1458103500"
+  },
+  {
+    "url_id": "iserlohn",
+    "name": "Iserlohn",
+    "studio_id": "1306255650"
+  },
+  {
+    "url_id": "juelich",
+    "name": "Jülich",
+    "studio_id": "1298421550"
+  },
+  {
+    "url_id": "kaiserslautern-augustastrasse",
+    "name": "Kaiserslautern Augustastraße",
+    "studio_id": null
+  },
+  {
+    "url_id": "kaiserslautern",
+    "name": "Kaiserslautern Merkurstraße",
+    "studio_id": "1437537730"
+  },
+  {
+    "url_id": "kamp-lintfort",
+    "name": "Kamp-Lintfort",
+    "studio_id": "1210007090"
+  },
+  {
+    "url_id": "kassel-hollaendischestrasse",
+    "name": "Kassel Holländische Straße",
+    "studio_id": null
+  },
+  {
+    "url_id": "kassel",
+    "name": "Kassel Kurfürstengalerie",
+    "studio_id": "1363496420"
+  },
+  {
+    "url_id": "kirchheim-unter-teck",
+    "name": "Kirchheim unter Teck",
+    "studio_id": "1432716880"
+  },
+  {
+    "url_id": "koblenz",
+    "name": "Koblenz",
+    "studio_id": "1245323690"
+  },
+  {
+    "url_id": "krefeld",
+    "name": "Krefeld",
+    "studio_id": "1317082920"
+  },
+  {
+    "url_id": "koeln-agnesviertel",
+    "name": "Köln Agnesviertel",
+    "studio_id": "1459601490"
+  },
+  {
+    "url_id": "koeln-lindenthal",
+    "name": "Köln Lindenthal",
+    "studio_id": "1459621830"
+  },
+  {
+    "url_id": "koeln-ossendorf",
+    "name": "Köln Ossendorf",
+    "studio_id": "1459298560"
+  },
+  {
+    "url_id": "koeln-poll",
+    "name": "Köln Poll",
+    "studio_id": "1458101250"
+  },
+  {
+    "url_id": "koeln-porz",
+    "name": "Köln Porz",
+    "studio_id": "1459188740"
+  },
+  {
+    "url_id": "koeln-suelz",
+    "name": "Köln Sülz",
+    "studio_id": "1459768080"
+  },
+  {
+    "url_id": "laatzen",
+    "name": "Laatzen",
+    "studio_id": null
+  },
+  {
+    "url_id": "lahnstein",
+    "name": "Lahnstein",
+    "studio_id": null
+  },
+  {
+    "url_id": "lahr",
+    "name": "Lahr",
+    "studio_id": "1413241400"
+  },
+  {
+    "url_id": "landshut",
+    "name": "Landshut Kumhausen",
+    "studio_id": "1386856820"
+  },
+  {
+    "url_id": "langen",
+    "name": "Langen",
+    "studio_id": "1434562480"
+  },
+  {
+    "url_id": "langenfeld-berghausen",
+    "name": "Langenfeld Berghausen",
+    "studio_id": "1347741110"
+  },
+  {
+    "url_id": "langenfeld-city",
+    "name": "Langenfeld City",
+    "studio_id": "1218871150"
+  },
+  {
+    "url_id": "langenselbold",
+    "name": "Langenselbold",
+    "studio_id": "1614924150"
+  },
+  {
+    "url_id": "leverkusen",
+    "name": "Leverkusen",
+    "studio_id": "1460339600"
+  },
+  {
+    "url_id": "lippstadt",
+    "name": "Lippstadt",
+    "studio_id": "1317528250"
+  },
+  {
+    "url_id": "marburg",
+    "name": "Marburg",
+    "studio_id": "1361035670"
+  },
+  {
+    "url_id": "melle",
+    "name": "Melle",
+    "studio_id": "1891763530"
+  },
+  {
+    "url_id": "menden",
+    "name": "Menden",
+    "studio_id": "1302519100"
+  },
+  {
+    "url_id": "minden",
+    "name": "Minden",
+    "studio_id": "1349190720"
+  },
+  {
+    "url_id": "moers",
+    "name": "Moers",
+    "studio_id": "1298433040"
+  },
+  {
+    "url_id": "monheim",
+    "name": "Monheim",
+    "studio_id": "1380727230"
+  },
+  {
+    "url_id": "moenchengladbach",
+    "name": "Mönchengladbach",
+    "studio_id": "1298548160"
+  },
+  {
+    "url_id": "muelheim-an-der-ruhr",
+    "name": "Mülheim",
+    "studio_id": "1299228790"
+  },
+  {
+    "url_id": "muenchen-haar",
+    "name": "München Haar",
+    "studio_id": "1381129950"
+  },
+  {
+    "url_id": "muenchen-unterhaching",
+    "name": "München Unterhaching",
+    "studio_id": "1380861940"
+  },
+  {
+    "url_id": "muenster",
+    "name": "Münster",
+    "studio_id": "1833633980"
+  },
+  {
+    "url_id": "neumarkt",
+    "name": "Neumarkt",
+    "studio_id": "1411032740"
+  },
+  {
+    "url_id": "neustadt-am-ruebenberge",
+    "name": "Neustadt",
+    "studio_id": null
+  },
+  {
+    "url_id": "neuwied",
+    "name": "Neuwied",
+    "studio_id": "1229990490"
+  },
+  {
+    "url_id": "nuernberg",
+    "name": "Nürnberg",
+    "studio_id": "1393391310"
+  },
+  {
+    "url_id": "oberhausen",
+    "name": "Oberhausen",
+    "studio_id": "1266244000"
+  },
+  {
+    "url_id": "obertshausen",
+    "name": "Obertshausen",
+    "studio_id": null
+  },
+  {
+    "url_id": "oldenburg",
+    "name": "Oldenburg",
+    "studio_id": "1834868000"
+  },
+  {
+    "url_id": "osnabrueck",
+    "name": "Osnabrück",
+    "studio_id": "1333086660"
+  },
+  {
+    "url_id": "paderborn",
+    "name": "Paderborn",
+    "studio_id": "1941146020"
+  },
+  {
+    "url_id": "passau",
+    "name": "Passau",
+    "studio_id": "1387224580"
+  },
+  {
+    "url_id": "pulheim",
+    "name": "Pulheim",
+    "studio_id": "1457842740"
+  },
+  {
+    "url_id": "ravensburg",
+    "name": "Ravensburg",
+    "studio_id": "1386935580"
+  },
+  {
+    "url_id": "recklinghausen-city",
+    "name": "Recklinghausen City",
+    "studio_id": "1333120210"
+  },
+  {
+    "url_id": "recklinghausen-hochlarmark",
+    "name": "Recklinghausen Hochlarmark",
+    "studio_id": "1332920560"
+  },
+  {
+    "url_id": "regensburg",
+    "name": "Regensburg",
+    "studio_id": "1411158080"
+  },
+  {
+    "url_id": "rosenheim-aicherpark",
+    "name": "Rosenheim Aicherpark",
+    "studio_id": "1569014960"
+  },
+  {
+    "url_id": "rosenheim-city",
+    "name": "Rosenheim-City",
+    "studio_id": "1424074880"
+  },
+  {
+    "url_id": "saarlouis",
+    "name": "Saarlouis",
+    "studio_id": "1435224360"
+  },
+  {
+    "url_id": "schwabach",
+    "name": "Schwabach",
+    "studio_id": "1393295670"
+  },
+  {
+    "url_id": "siegen",
+    "name": "Siegen",
+    "studio_id": "1468131860"
+  },
+  {
+    "url_id": "sindelfingen",
+    "name": "Sindelfingen",
+    "studio_id": "1413941890"
+  },
+  {
+    "url_id": "soest",
+    "name": "Soest",
+    "studio_id": "1317518350"
+  },
+  {
+    "url_id": "springe",
+    "name": "Springe",
+    "studio_id": null
+  },
+  {
+    "url_id": "straubing",
+    "name": "Straubing",
+    "studio_id": "1387060970"
+  },
+  {
+    "url_id": "stuttgart-degerloch",
+    "name": "Stuttgart Degerloch",
+    "studio_id": "1422734600"
+  },
+  {
+    "url_id": "toenisvorst",
+    "name": "Tönisvorst",
+    "studio_id": "1466815190"
+  },
+  {
+    "url_id": "unna",
+    "name": "Unna",
+    "studio_id": "1296826160"
+  },
+  {
+    "url_id": "voelklingen",
+    "name": "Völklingen",
+    "studio_id": "1377760660"
+  },
+  {
+    "url_id": "wanne-eickel",
+    "name": "Wanne-Eickel",
+    "studio_id": "1296857860"
+  },
+  {
+    "url_id": "weiden",
+    "name": "Weiden",
+    "studio_id": "1411606360"
+  },
+  {
+    "url_id": "weiskirchen",
+    "name": "Weiskirchen",
+    "studio_id": "1614595050"
+  },
+  {
+    "url_id": "werne",
+    "name": "Werne",
+    "studio_id": "1820691000"
+  },
+  {
+    "url_id": "wesel",
+    "name": "Wesel City",
+    "studio_id": "1347697750"
+  },
+  {
+    "url_id": "wesel-industriegebiet",
+    "name": "Wesel Industriegebiet",
+    "studio_id": "1377227830"
+  },
+  {
+    "url_id": "wiesbaden",
+    "name": "Wiesbaden",
+    "studio_id": "1435011010"
+  },
+  {
+    "url_id": "wuppertal",
+    "name": "Wuppertal Barmen",
+    "studio_id": "1281492160"
+  },
+  {
+    "url_id": "elberfeld",
+    "name": "Wuppertal Elberfeld",
+    "studio_id": "1279759470"
+  },
+  {
+    "url_id": "wuppertal-neumarkt",
+    "name": "Wuppertal Neumarkt",
+    "studio_id": "1251458270"
+  },
+  {
+    "url_id": "wuerzburg",
+    "name": "Würzburg",
+    "studio_id": "1438240210"
+  }
+]
